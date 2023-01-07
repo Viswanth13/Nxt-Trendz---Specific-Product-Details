@@ -1,0 +1,14 @@
+.similar-product-item-container {
+  width: 350px;
+}
+
+.similar-image {
+  width: 90%;
+  height: 200px;
+}
+
+.price-rating-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}

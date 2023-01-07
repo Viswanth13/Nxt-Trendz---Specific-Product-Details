@@ -1,0 +1,29 @@
+.image-description-container {
+  display: flex;
+  height: 600px;
+}
+
+.image-container {
+  height: 100%;
+  width: 45%;
+}
+.item-image {
+  height: 90%;
+}
+
+.rest-container {
+  height: 100%;
+  width: 45%;
+}
+
+.rating-review-container {
+  display: flex;
+}
+
+.quantity-container {
+  display: flex;
+}
+
+.similar-products-container {
+  display: flex;
+}
